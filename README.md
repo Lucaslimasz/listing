@@ -6,7 +6,7 @@
 
 # Nivio
 
-> Nivio | Nivio | Uma plataforma de listagem de items
+> Nivio | Uma plataforma de listagem de items
 
 ## 💻 Projeto 
 
